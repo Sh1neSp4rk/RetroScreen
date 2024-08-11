@@ -1,0 +1,4 @@
+Gameboy/GBC - 160 x 144
+GBA - 240 x 160
+NES - 256 x 240
+SNES - 256 x 224
